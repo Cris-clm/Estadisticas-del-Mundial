@@ -1,7 +1,7 @@
 📖 Programa De estadisticas del Mundial. 
 
 
-🛠️  Este es un programita que está reutilizando la estructura de la pre-entrega 1 para la parte de selección de lógicas, básicamente se reutilizo el switch para establecer un orden de funcionamiento. 
+🛠️  Este es un programita esta basado en trabajos con array y objetos, con las diferente herramientas vistas.
 
 Este programita se puede ver estadísticas con ser el equipo de mayores puntajes, Los puntos totales del grupo analizado  y los puntos de algún equipo en especial. 
 Se debe ingresar colocando el usuario y la clave y solo tienes tres opciones para realizarlos, luego se deberá recargar el navegador.
